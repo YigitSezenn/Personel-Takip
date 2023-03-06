@@ -1,0 +1,20 @@
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\BLL\bin\Debug\BLL.dll
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\BLL\bin\Debug\BLL.pdb
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\BLL\bin\Debug\DAL.dll
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\BLL\bin\Debug\DAL.pdb
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\BLL\obj\Debug\BLL.dll
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\BLL\obj\Debug\BLL.pdb
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\BLL\bin\Debug\DAL.dll.config
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\BLL\bin\Debug\BLL.dll
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\BLL\bin\Debug\BLL.pdb
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\BLL\bin\Debug\DAL.dll
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\BLL\bin\Debug\DAL.pdb
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\BLL\bin\Debug\DAL.dll.config
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\BLL\obj\Debug\BLL.dll
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\BLL\obj\Debug\BLL.pdb

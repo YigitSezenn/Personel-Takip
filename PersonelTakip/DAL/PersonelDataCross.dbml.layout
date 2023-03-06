@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.125" name="PersonelDataCross">
+  <DataContextMoniker Name="/PersonelDataCrossDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b98b24f2-0367-48b7-94f0-5393035b01e4" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/PersonelDataCrossDataContext/BusinessContinuity" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a3451a0e-8ee3-484e-8b4c-1b82fc8386a1" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c0511e70-51f9-4e75-98f3-02812c2c733a" absoluteBounds="0.75, 2.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/PersonelDataCrossDataContext/Bussines" />
+      <nestedChildShapes>
+        <elementListCompartment Id="06ec83e6-1d75-47d5-bd50-bea72d423f1a" absoluteBounds="0.765, 3.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="964ff690-85c8-45d9-ad49-8813fcda2d7f" absoluteBounds="3.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/PersonelDataCrossDataContext/Departman" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dd2d9a5a-4c37-48c7-a9e8-e5eceb07a58d" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2a8ed929-2c12-4fde-8578-59d5d23aa60f" absoluteBounds="3.75, 2.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/PersonelDataCrossDataContext/months" />
+      <nestedChildShapes>
+        <elementListCompartment Id="37f60c74-025d-497f-8328-e17d4cdc4403" absoluteBounds="3.765, 3.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="454b5904-9756-4aba-9b27-3685d1996082" absoluteBounds="3.75, 4.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/PersonelDataCrossDataContext/PermissionStatus" />
+      <nestedChildShapes>
+        <elementListCompartment Id="37c1821f-d925-4d98-a20e-ee143c623243" absoluteBounds="3.765, 5.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="046dda74-08cf-4847-8651-c7e2f455afcc" absoluteBounds="6.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/PersonelDataCrossDataContext/Permission" />
+      <nestedChildShapes>
+        <elementListCompartment Id="cd1622f3-ffa9-4b8b-97af-ec4226fdd063" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8183e55b-f32e-4158-b9f8-cbd9d3f4783f" absoluteBounds="0.75, 6.75, 2, 3.1170068359375014">
+      <DataClassMoniker Name="/PersonelDataCrossDataContext/Personel" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dcaf8492-2eb2-459e-aed4-714004183379" absoluteBounds="0.765, 7.21, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="47c57095-d116-4328-9d2e-6fbd4e14bc81" absoluteBounds="3.75, 6.75, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/PersonelDataCrossDataContext/Salary" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1a8afccd-4c32-4aff-a69c-56cf62ca1783" absoluteBounds="3.765, 7.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cc0e8fb8-6fa1-4ff4-93ee-7b54aca04e0a" absoluteBounds="6.375, 3.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/PersonelDataCrossDataContext/Position" />
+      <nestedChildShapes>
+        <elementListCompartment Id="73b757fc-72d6-4829-aa25-5ba0e0c56b9a" absoluteBounds="6.39, 4.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

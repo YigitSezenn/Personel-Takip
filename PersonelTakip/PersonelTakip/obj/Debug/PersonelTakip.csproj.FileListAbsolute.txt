@@ -1,0 +1,60 @@
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.pdb
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\BLL.dll
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\DAL.dll
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\BLL.pdb
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\DAL.pdb
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.AssemblyReference.cache
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Properties.Resources.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.GenerateResource.cache
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.CopyComplete
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.exe
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.pdb
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmDepartmanBilgileri.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmDepartmanListesi.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmMain.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmgirisPanel.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmPersonelBilgileri.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmPozisyonBilgileri.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmPozisyonListesi.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmPersonelListesi.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmİzinBilgileri.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmİzinListesi.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmİşBilgileri.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmİşListesi.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmMaasBilgileri.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmMaasListesi.resources
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\DAL.dll.config
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe.config
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.exe
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\PersonelTakip.pdb
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\BLL.dll
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\DAL.dll
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\BLL.pdb
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\DAL.pdb
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\bin\Debug\DAL.dll.config
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmgirisPanel.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmDepartmanBilgileri.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmDepartmanListesi.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmMaasBilgileri.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmMaasListesi.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmMain.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmPersonelBilgileri.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmPersonelListesi.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmPozisyonBilgileri.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmPozisyonListesi.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmİzinBilgileri.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.frmİzinListesi.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmİşBilgileri.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.FrmİşListesi.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.Properties.Resources.resources
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.GenerateResource.cache
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.csproj.CopyComplete
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.exe
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\PersonelTakip\obj\Debug\PersonelTakip.pdb

@@ -1,0 +1,14 @@
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\DAL\bin\Debug\DAL.dll
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\DAL\bin\Debug\DAL.pdb
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\DAL\obj\Debug\DAL.dll
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\DAL\obj\Debug\DAL.pdb
+C:\Users\yigit\Desktop\Projelerım\Personel Takip\PersonelTakip\DAL\bin\Debug\DAL.dll.config
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\DAL\bin\Debug\DAL.dll.config
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\DAL\bin\Debug\DAL.dll
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\DAL\bin\Debug\DAL.pdb
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\DAL\obj\Debug\DAL.dll
+C:\Users\Yiğit Sezen\Desktop\Personel Takip\PersonelTakip\DAL\obj\Debug\DAL.pdb
